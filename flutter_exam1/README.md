@@ -1,6 +1,6 @@
 # flutter_exam1
 
-A new Flutter application.
+![IMG-20201205-WA0027 1](https://user-images.githubusercontent.com/74317544/101245047-0aa26380-36bf-11eb-9c11-98fb175ffcba.jpg)
 
 ## Getting Started
 
